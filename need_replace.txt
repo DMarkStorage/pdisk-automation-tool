@@ -1,0 +1,11 @@
+recovery group  pdisk         priority  FRU (type)       location
+
+--------------  ------------  --------  ---------------  --------
+
+ngfes04R        e6s020            9.71  01LU841          Rack D3-R09 U27-30, Enclosure 5147-106-78T805B Drive 20  
+
+ngfes05L        e7s077            9.71  01LU841          Rack D3-R08 U31-34, Enclosure 5147-106-78T8077 Drive 77  
+
+ngfes12L        e7s066            9.71  01LU841          Rack D1-R05 U26-29, Enclosure 5147-106-78T8289 Drive 66  
+
+ngfes14L        e5s037            9.71  01LU841          Rack D1-R09 U18-21, Enclosure 5147-106-78T827F Drive 37 

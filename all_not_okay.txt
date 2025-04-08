@@ -1,0 +1,23 @@
+                                                                              
+
+recovery group  pdisk            array     paths  capacity  free space  FRU (type)       state
+
+--------------  ------------  -----------  -----  --------  ----------  ---------------  -----
+
+ngfes04R        e6s020        DA1              0    12 TiB      12 TiB  01LU841          simulatedFailing/replace
+
+ngfes05L        e7s077        DA1              0    12 TiB      12 TiB  01LU841          failing/replace
+
+ngfes10L        n026v001      NVR              0    31 GiB      30 GiB  34GB NVRAM       missing/undrainable
+
+ngfes10R        n026v002      NVR              0    31 GiB      30 GiB  34GB NVRAM       missing/undrainable
+
+ngfes12L        e7s066        DA1              0    12 TiB      12 TiB  01LU841          failing/replace
+
+ngfes14L        e5s037        DA1              0    12 TiB      12 TiB  01LU841          failing/replace
+
+
+
+
+
+
